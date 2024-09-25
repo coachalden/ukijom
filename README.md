@@ -32,7 +32,7 @@ Web yang saya buat ini adalah sebuah buku nota digital
 
 
 ### ERD
-![fotoerd](https://raw.githubusercontent.com/adinfaizin/ukkproject/refs/heads/main/fotoerd.png)
+![ERD](https://raw.githubusercontent.com/coachalden/ukijom/refs/heads/main/erd.png)
 
 ### UML
 ![fotouml](https://raw.githubusercontent.com/adinfaizin/ukkproject/refs/heads/main/fotouml.png)
