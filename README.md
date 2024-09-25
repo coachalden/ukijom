@@ -35,7 +35,7 @@ Web yang saya buat ini adalah sebuah buku nota digital
 ![ERD](https://raw.githubusercontent.com/coachalden/ukijom/refs/heads/main/erd.png)
 
 ### UML
-![fotouml](https://raw.githubusercontent.com/adinfaizin/ukkproject/refs/heads/main/fotouml.png)
+![fotouml](https://raw.githubusercontent.com/coachalden/ukijom/refs/heads/main/uml.jpg)
 
 
 Tabel Failed_Jobs,
