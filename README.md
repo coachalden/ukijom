@@ -53,7 +53,7 @@ Bootstrap 5
 ## Instalasi
 
 1.Clone repositori
-git clone https://github.com/adinfaizin/ukkproject.git
+git clone https://github.com/coachalden/ukijom.git
 
 2.Konfigurasi Database
 DB_CONNECTION=mysql
